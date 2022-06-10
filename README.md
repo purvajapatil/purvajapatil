@@ -20,6 +20,10 @@ I am a Data Scientist at @Accenture India, mentor for R/Shiny, Deep learning ent
 
 How to reach me - [LinkedIn](https://www.linkedin.com/in/purvajapatil/)
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+dj
+
+
+
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Languages and Tools
