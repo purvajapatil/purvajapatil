@@ -18,8 +18,8 @@ How to reach me - <br/>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvajapatil/)
 
 ### Languages and Tools
-![Python](<https://img.shields.io/badge/dynamic/json?url=<URL>&label=shd&color=blue>)
 
 
 
-![hshd](<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />)
+
+![Python](<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=blue&style=ShieldStyle" />)
