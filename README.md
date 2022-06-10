@@ -26,5 +26,9 @@ How to reach me - <br/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-HexColor?style=plastic&logoColor=white&color=blue" />
   <img alt="R Shiny" src="https://img.shields.io/badge/R Shiny-HexColor?style=plastic&logoColor=white&color=blue" />
   <img alt="NLP" src="https://img.shields.io/badge/NLP-HexColor?style=plastic&logoColor=white&color=blue" />
-  <img alt="Python" src="https://img.shields.io/badge/SAS-HexColor?style=plastic&logoColor=white&color=blue" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-HexColor?style=plastic&logoColor=white&color=blue" />
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter Notebook-HexColor?style=plastic&logoColor=white&color=blue" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-HexColor?style=plastic&logoColor=white&color=blue" />
+  <img alt="Spyder" src="https://img.shields.io/badge/Spyder-HexColor?style=plastic&logoColor=white&color=blue?logoHeight=40" />
+  <img alt="SAS" src="https://img.shields.io/badge/SAS-HexColor?style=plastic&logoColor=white&color=blue?logoWidth=40" />
 </p>
