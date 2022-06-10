@@ -22,5 +22,7 @@ How to reach me - [LinkedIn](https://www.linkedin.com/in/purvajapatil/)
 
 <img src="{https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white}"> 
 
+![image]({https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white})
+
 
 ### Languages and Tools
