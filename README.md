@@ -15,10 +15,10 @@ I am a Data Scientist at @Accenture India, mentor for R/Shiny, Deep learning ent
 🖨 Resume - [Click to view](https://drive.google.com/file/d/1O3O4hIQiaoHdxGIF0MyWG9nv46_tzHsu/view?usp=sharing)
 
 How to reach me - <br/>
-[![](https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvajapatil/)
+[![](https://img.shields.io/badge/LinkedIn=0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvajapatil/)
 
 ### Languages and Tools
-
+<p>
   <img alt="Python" src="https://img.shields.io/badge/Python-HexColor?style=for-the-page&logoColor=white&color=blue" />
   <img alt="R" src="https://img.shields.io/badge/R-HexColor?style=for-the-page&logoColor=white&color=blue" />
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-HexColor?style=for-the-page&logoColor=white&color=blue" />
@@ -30,4 +30,4 @@ How to reach me - <br/>
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-HexColor?style=for-the-page&logoColor=white&color=blue" />
   <img alt="Spyder" src="https://img.shields.io/badge/Spyder-HexColor?style=for-the-page&logoColor=white&color=blue" />
   <img alt="SAS" src="https://img.shields.io/badge/SAS-HexColor?style=for-the-page&logoColor=white&color=blue" />
-
+</p>
