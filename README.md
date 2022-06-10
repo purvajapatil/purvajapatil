@@ -23,4 +23,6 @@ How to reach me - <br/>
 
 ### Languages and Tools
 
-https://img.shields.io/badge/Powered%20by-PostgreSQL-blue.svg
+
+
+!\[alt text\](https://img.shields.io/badge/Powered%20by-PostgreSQL-blue.svg)
