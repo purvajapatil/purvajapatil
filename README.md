@@ -22,7 +22,3 @@ How to reach me - <br/>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvajapatil/)
 
 ### Languages and Tools
-
-
-
-!\[alt text\](https://img.shields.io/badge/Powered%20by-PostgreSQL-blue.svg)
