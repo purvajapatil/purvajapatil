@@ -21,8 +21,8 @@ How to reach me - <br/>
 
 ![](https://img.shields.io/badge/Python-HexColor?style=plastic&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/R-HexColor?style=plastic&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Machine Learning-HexColor?style=plastic&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Machine-Learning-HexColor?style=plastic&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/SQL-HexColor?style=plastic&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/AWS-HexColor?style=plastic&logoColor=white&color=blue)
-![](https://img.shields.io/badge/R Shiny-HexColor?style=plastic&logoColor=white&color=blue)
+![](https://img.shields.io/badge/R-Shiny-HexColor?style=plastic&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/NLP-HexColor?style=plastic&logoColor=white&color=blue)
