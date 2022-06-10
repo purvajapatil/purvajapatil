@@ -19,20 +19,12 @@ How to reach me - <br/>
 
 ### Languages and Tools
 
-![](https://img.shields.io/badge/Python-HexColor?style=plastic&logoColor=white&color=blue) 
-![](https://img.shields.io/badge/R-HexColor?style=plastic&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Machine-HexColor?style=plastic&logoColor=white&color=blue)
-![](https://img.shields.io/badge/SQL-HexColor?style=plastic&logoColor=white&color=blue)
-![](https://img.shields.io/badge/AWS-HexColor?style=plastic&logoColor=white&color=blue)
-![](https://img.shields.io/badge/R-Shiny-HexColor?style=plastic&logoColor=white&color=blue)
-![](https://img.shields.io/badge/NLP-HexColor?style=plastic&logoColor=white&color=blue)
-
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-HexColor?style=plastic&logoColor=white&color=blue" />
   <img alt="R" src="https://img.shields.io/badge/R-HexColor?style=plastic&logoColor=white&color=blue" />
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-HexColor?style=plastic&logoColor=white&color=blue" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-HexColor?style=plastic&logoColor=white&color=blue" />
-  <img alt="R Shiny" src="https://img.shields.io/badge/'R Shiny'-HexColor?style=plastic&logoColor=white&color=blue" />
+  <img alt="R Shiny" src="https://img.shields.io/badge/R Shiny-HexColor?style=plastic&logoColor=white&color=blue" />
   <img alt="NLP" src="https://img.shields.io/badge/NLP-HexColor?style=plastic&logoColor=white&color=blue" />
   <img alt="Python" src="https://img.shields.io/badge/SAS-HexColor?style=plastic&logoColor=white&color=blue" />
 </p>
