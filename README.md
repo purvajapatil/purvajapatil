@@ -12,9 +12,9 @@ I am a Data Scientist at @Accenture India, mentor for R/Shiny, Deep learning ent
 
 👯 I’m looking to collaborate on - Hackathons
 
-💬 Ask me about - R, Machine Learning, restaurants, and a good playlist.
+💬 Ask me about - R, Machine Learning, restaurants, and a good playlist
 
-⚡️ Fun fact - The rocket for India's first ever rocket launch was carried in parts on a bicycle to the launch site, a church in Thiruvananthapuram in 1963.
+⚡️ Fun fact - The rocket for India's first ever rocket launch was carried in parts on a bicycle to the launch site, a church in Thiruvananthapuram in 1963
 
 🖨 Resume - [Click to view](https://drive.google.com/file/d/1O3O4hIQiaoHdxGIF0MyWG9nv46_tzHsu/view?usp=sharing)
 
@@ -22,3 +22,5 @@ How to reach me - <br/>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvajapatil/)
 
 ### Languages and Tools
+
+[![ForTheBadge R Python Machine Learning](http://ForTheBadge.com/images/badges/winter-is-coming.svg)]
