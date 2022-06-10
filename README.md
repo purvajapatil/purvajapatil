@@ -29,5 +29,5 @@ How to reach me - <br/>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/Python-HexColor?style=plastic&logoColor=white&color=blue" />
-  <img alt="Angular" src="https://img.shields.io/badge/Python-HexColor?style=plastic&logoColor=white&color=blue" />
+  <img alt="Angular" src="https://img.shields.io/badge/dd-HexColor?style=plastic&logoColor=white&color=blue" />
 </p>
