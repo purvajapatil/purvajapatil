@@ -22,6 +22,6 @@ How to reach me - [LinkedIn](https://www.linkedin.com/in/purvajapatil/)
 
 [<img src="{https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white}" /> ](https://www.linkedin.com/in/purvajapatil/)
 
-<img src=”https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" alt=”LinkedIn”>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 ### Languages and Tools
