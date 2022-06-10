@@ -11,6 +11,7 @@ I am a Data Scientist at @Accenture India, mentor for R/Shiny, Deep learning ent
 👯 I’m looking to collaborate on - Hackathons <br/>
 💬 Ask me about - R, Machine Learning, restaurants, and a good playlist <br/>
 ⚡️ Fun fact - The rocket for India's first ever rocket launch was carried in parts on a bicycle to the launch site, a church in Thiruvananthapuram in 1963 <br/>
+
 🖨 Resume - [Click to view](https://drive.google.com/file/d/1O3O4hIQiaoHdxGIF0MyWG9nv46_tzHsu/view?usp=sharing)
 
 How to reach me - <br/>
