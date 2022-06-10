@@ -26,4 +26,4 @@ https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogfl
 
 ![he](<img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />)
 
-![](https://img.shields.io/badge/BadgeText-HexColor?style=for-the-badge&logoColor=white&color=blue)
+![Python](https://img.shields.io/badge/BadgeText-HexColor?style=plastic&logoColor=white&color=blue&alt)
