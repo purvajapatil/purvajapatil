@@ -23,4 +23,4 @@ How to reach me - <br/>
 
 ### Languages and Tools
 
-[![ForTheBadge R Python Machine Learning](http://ForTheBadge.com/images/badges/winter-is-coming.svg)]
+https://img.shields.io/badge/Powered%20by-PostgreSQL-blue.svg
