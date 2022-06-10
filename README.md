@@ -19,9 +19,9 @@ How to reach me - <br/>
 
 ### Languages and Tools
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-HexColor?style=for-the-page&logoColor=white&color=9cf" />
-  <img alt="R" src="https://img.shields.io/badge/R-HexColor?style=for-the-page&logoColor=white&color=9cf" />
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-HexColor?style=for-the-page&logoColor=white&color=9cf" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-HexColor?style=for-the-page&logoColor=white&color=blue" />
+  <img alt="R" src="https://img.shields.io/badge/R-HexColor?style=for-the-page&logoColor=white&color=blue" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-HexColor?style=for-the-page&logoColor=white&color=blue" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-HexColor?style=for-the-page&logoColor=white&color=blue" />
   <img alt="R Shiny" src="https://img.shields.io/badge/R Shiny-HexColor?style=for-the-page&logoColor=white&color=blue" />
   <img alt="NLP" src="https://img.shields.io/badge/NLP-HexColor?style=for-the-page&logoColor=white&color=blue" />
