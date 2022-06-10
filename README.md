@@ -19,11 +19,10 @@ How to reach me - <br/>
 
 ### Languages and Tools
 
-
-https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white
-
-![Python](<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=white&color=blue" />)
-
-![he](<img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />)
-
-![](https://img.shields.io/badge/Python-HexColor?style=plastic&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Python-HexColor?style=plastic&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/R-HexColor?style=plastic&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Machine Learning-HexColor?style=plastic&logoColor=white&color=blue)
+![](https://img.shields.io/badge/SQL-HexColor?style=plastic&logoColor=white&color=blue)
+![](https://img.shields.io/badge/AWS-HexColor?style=plastic&logoColor=white&color=blue)
+![](https://img.shields.io/badge/R Shiny-HexColor?style=plastic&logoColor=white&color=blue)
+![](https://img.shields.io/badge/NLP-HexColor?style=plastic&logoColor=white&color=blue)
