@@ -28,6 +28,6 @@ How to reach me - <br/>
 ![](https://img.shields.io/badge/NLP-HexColor?style=plastic&logoColor=white&color=blue)
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/Python-HexColor?style=plastic&logoColor=white&color=blue" />
-  <img alt="Angular" src="https://img.shields.io/badge/dd-HexColor?style=plastic&logoColor=white&color=blue" />
+  <img alt="React" src="https://img.shields.io/badge/?style=plastic&logoColor=white&color=blue" />
+  <img alt="Angular" src="https://img.shields.io/badge/?style=plastic&logoColor=white&color=blue" />
 </p>
