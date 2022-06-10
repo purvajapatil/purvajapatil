@@ -18,12 +18,6 @@ I am a Data Scientist at @Accenture India, mentor for R/Shiny, Deep learning ent
 
 🖨 Resume - [Click to view](https://drive.google.com/file/d/1O3O4hIQiaoHdxGIF0MyWG9nv46_tzHsu/view?usp=sharing)
 
-How to reach me - [LinkedIn](https://www.linkedin.com/in/purvajapatil/)
-
-dj
-
-
-
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+How to reach me - [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvajapatil/)
 
 ### Languages and Tools
