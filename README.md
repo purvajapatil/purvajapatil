@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 My name is Purvaja Patil and I welcome you all to my Github. ✌️
+
 ![](https://komarev.com/ghpvc/?username=purvajapatil&color=blueviolet&style=plastic)
 
 I am a Data Scientist at @Accenture India, mentor for R/Shiny, Deep learning enthusiast, Food connoisseur and always ready for an adventure!
